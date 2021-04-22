@@ -65,4 +65,11 @@
     </style>
  ```
 
+### Experience 
+#### SpaceX 2013-2021
 
+### Education
+#### MIT 2015 - 2020
+
+### English
+#### Intermediate
