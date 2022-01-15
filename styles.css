@@ -72,7 +72,6 @@ ul.linkedin {
 
 .skills-list {
     margin-bottom: 4rem;
-    ;
 }
 
 .skills-list li+li {
@@ -115,10 +114,15 @@ ul.linkedin {
     margin-right: 1rem;
 }
 
-.discord-name,
+
+/*.discord-name,
 .skype-nik,
 .linkedIn-link {
     margin-left: 1rem;
+}*/
+
+.contact-name {
+    padding-left: 10px;
 }
 
 .education {
