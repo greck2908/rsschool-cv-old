@@ -16,9 +16,9 @@ body {
     margin: auto;
     border: gray solid 1px;
     display: flex;
-    -webkit-box-shadow: 1px 81px 100px 5px rgba(0,0,0,0,0.49);
-    -moz-box-shadow: 1px 81px 100px 5px rgba(0,0,0,0,0.49);
-    box-shadow: 1px 81px 100px 5px rgba(0,0,0,0,0.49);
+    -webkit-box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0, 0.49);
+    -moz-box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0, 0.49);
+    box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0, 0.49);
 }
 
 .header {
@@ -32,9 +32,9 @@ body {
 
 .photo img {
     width: 100%;
-    -webkit-box-shadow: 5px 6px 32px 1px rgba(0,0,0,0,0.49);
-    -moz-box-shadow: 5px 6px 32px 1px rgba(0,0,0,0,0.49);
-    box-shadow: 5px 6px 32px 1px rgba(0,0,0,0,0.49);
+    -webkit-box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0, 0.49);
+    -moz-box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0, 0.49);
+    box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0, 0.49);
 }
 
 .about {
@@ -54,7 +54,7 @@ body {
 }
 
 .contacts-text {
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-size: 24px;
 }
 
@@ -71,10 +71,11 @@ ul.linkedin {
 }
 
 .skills-list {
-    margin-bottom: 4rem;;
+    margin-bottom: 4rem;
+    ;
 }
 
-.skills-list li + li {
+.skills-list li+li {
     margin-top: 1rem;
 }
 
@@ -150,7 +151,6 @@ ul.linkedin {
     margin-top: 50px;
     width: 100%;
     height: 65px;
-    background-image: url('../rsschool-cv/icons/rss.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -210,4 +210,3 @@ ul.linkedin {
 .footer-nav-list li a i.fab:hover {
     color: rgb(26, 226, 103)
 }
-
